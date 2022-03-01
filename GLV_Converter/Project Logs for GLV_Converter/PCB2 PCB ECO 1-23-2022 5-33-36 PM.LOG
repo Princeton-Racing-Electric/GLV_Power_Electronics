@@ -1,0 +1,15 @@
+Change Component Library : Designator=CIn Old Library=* New Library=20SVPF56MX.SchLib
+Change Component Library : Designator=Cout Old Library=* New Library=20SVPF56MX.SchLib
+Change Component Library : Designator=Cvcc Old Library=* New Library=C1608X6S1C475K080AC.SchLib
+Change Component Library : Designator=Rg1 Old Library=* New Library=CRCW06031R00FKEA.SchLib
+Change Component Library : Designator=Rg2 Old Library=* New Library=CRCW06031R00FKEA.SchLib
+Change Component Library : Designator=Rilim Old Library=* New Library=CRCW040221K0FKED.SchLib
+Change Component Library : Designator=Rt Old Library=* New Library=CRCW040266K5FKED.SchLib
+Change Component Library : Designator=Renb Old Library=* New Library=CRCW0402100KFKED.SchLib
+Change Component Library : Designator=Rent Old Library=* New Library=CRCW0402634KFKED.SchLib
+Change Component Library : Designator=Cboot1 Old Library=* New Library=EMK107B7104KA-T.SchLib
+Change Component Library : Designator=Cboot2 Old Library=* New Library=EMK107B7104KA-T.SchLib
+Change Component Library : Designator=CInx1 Old Library=* New Library=GRM31CR71E475KA88L.SchLib
+Change Component Library : Designator=CInx2 Old Library=* New Library=GRM31CR71E475KA88L.SchLib
+Change Component Library : Designator=L1 Old Library=* New Library=HC1-100-R.SchLib
+Change Component Library : Designator=JBAT Old Library=* New Library=XT60PW-F.SchLib

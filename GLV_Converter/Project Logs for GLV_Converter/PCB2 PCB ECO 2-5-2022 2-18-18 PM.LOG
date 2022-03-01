@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=CIn Old Footprint=CAP_20SVPF56MX New Footprint=CAP_20SVF56M
+Change Component Footprint: Designator=Cout Old Footprint=CAP_20SVPF56MX New Footprint=CAP_20SVF56M
+Change Component Comment : Designator=CIn Old Comment=20SVPF56MX New Comment=20SVF56M
+Change Component Comment : Designator=Cout Old Comment=20SVPF56MX New Comment=20SVF56M
+Change component parameters: Designator = "CIn" ("Cin"); Footprint = "CAP_20SVPF56MX"; UniqueID = "\NTATDVUH" ("\NTATDVUH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "20SVF56M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Cout" ("Cout"); Footprint = "CAP_20SVPF56MX"; UniqueID = "\PEXMFKLP" ("\PEXMFKLP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "20SVF56M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

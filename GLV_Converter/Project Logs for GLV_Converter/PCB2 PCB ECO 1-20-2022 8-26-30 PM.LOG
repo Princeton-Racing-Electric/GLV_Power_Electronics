@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=Ccom p NewDesignator=Ccomp
+Change Net Name : Old Net Name=NetCcom p_1 New Net Name=NetCcomp_1
+Change Net Name : Old Net Name=NetCcom p_2 New Net Name=NetCcomp_2

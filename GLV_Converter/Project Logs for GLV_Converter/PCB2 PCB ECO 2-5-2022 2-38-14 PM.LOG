@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetCboot2_2 Pin=L1-1
+Removed Pin From Net: NetName=NetCboot1_1 Pin=L1-2
+Removed Member From Class: ClassName=Sheet2 Member=L1
+Change component parameters: Designator = "CInx1" ("Cinx1"); Footprint = "CAP3216X125N"; UniqueID = "\HWCBCYVM" ("\HWCBCYVM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Murata'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM31CR71H475KA12L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "CInx2" ("Cinx2"); Footprint = "CAP3216X125N"; UniqueID = "\QAZYPBUO" ("\QAZYPBUO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Murata'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM31CR71H475KA12L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(PQ2614BLA100K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PQ2614BLA-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pq2614bla-100k/bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/54/bourns_PQ2614BLA_BHA_datasheet-1159238.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PQ2614BLA-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PQ2614BLA-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PQ2614BLA-100K?qs=1mbolxNpo8dMKwtGfSvUcA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCboot1_1 Pin=L?-1
+Added Pin To Net: NetName=NetCboot2_2 Pin=L?-3
+Added Member To Class: ClassName=Sheet2 Member=Component L? PQ2614BLA-100K

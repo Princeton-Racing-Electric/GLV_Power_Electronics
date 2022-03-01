@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=Cinx1 Old Footprint=CAPC3216X180N New Footprint=CAP3216X125N
+Change Component Footprint: Designator=Cinx2 Old Footprint=CAPC3216X180N New Footprint=CAP3216X125N
+Change Component Comment: Designator=Cinx1 Old Comment=GRM31CR71H475KA12L New Comment=GRM31CR71E475KA88L
+Change Component Comment: Designator=Cinx2 Old Comment=GRM31CR71H475KA12L New Comment=GRM31CR71E475KA88L
+Change Pin Designator/Name:  Old Designator=Cinx1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=Cinx1-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=Cinx2-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=Cinx2-2 Old Name=2 New Designator =1 New Name=1

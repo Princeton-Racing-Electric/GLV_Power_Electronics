@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetM1_4 Pin=Rg1-2
+Removed Pin From Net: NetName=NetM2_3 Pin=Rg2-2
+Removed Pin From Net: NetName=GND Pin=Rilim-1
+Change Component Footprint: Designator=Renb Old Footprint=RESC1005X40N New Footprint=RESC1005X40X25ML05T05
+Change Component Footprint: Designator=Rt Old Footprint=RESC1005X40N New Footprint=RESC1005X40X25ML05T05
+Change Component Footprint: Designator=Rcomp Old Footprint=RESC1005X40X25ML05T05 New Footprint=RESC1005X40X25LL05T05
+Change Component Footprint: Designator=Rg1 Old Footprint=RESC1508X50N New Footprint=RESC1608X55N
+Change Component Footprint: Designator=Rg2 Old Footprint=RESC1508X50N New Footprint=RESC1608X55N
+Change Component Comment : Designator=Rg1 Old Comment=CRCW06031R00FKEA New Comment=RC0603FR-071RL
+Change Component Comment : Designator=Rg2 Old Comment=CRCW06031R00FKEA New Comment=RC0603FR-071RL
+Change Component Comment : Designator=Rilim Old Comment=CRCW040221K0FKED New Comment=RMCF0402FT21K0
+Change Component Comment : Designator=Rcomp Old Comment=CRCW040247K5FKED New Comment=CRCW040247K5FKTD
+Change Component Comment : Designator=Renb Old Comment=CRCW0402100KFKED New Comment=CRCW0402100KFKTD
+Change Managed Component Library Link : Designator=Rcomp Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DF2AA65F-4E50-4CFD-A95B-F7AF53E10D08 New ItemGUID=F947F690-3C06-4A11-B190-9BE44021402D Old RevisionGUID=31689189-EA87-43AD-85C3-E01D7CDEFA98 New RevisionGUID=846EAE29-F6D6-4226-B0AC-8C66C8DFB60A
+Change Managed Component Library Link : Designator=Renb Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=90178784-1973-4565-8875-F701A7FCA5B5 Old RevisionGUID= New RevisionGUID=AD84F9A3-BDBD-4254-A3F0-5B8CB532EDB6
+Change Managed Component Library Link : Designator=Rt Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=6C0870EE-C01D-418A-96DF-F616A59D60B6 Old RevisionGUID= New RevisionGUID=8E7641AA-C7B5-4AD2-9997-4D646083FDD9
+Change component parameters: Designator = "Rcomp" ("Rcomp"); Footprint = "RESC1005X40X25ML05T05"; UniqueID = "\UIPCXEEJ" ("\UIPCXEEJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW040247K5FKTD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Renb" ("Renb"); Footprint = "RESC1005X40N"; UniqueID = "\DCRNIOBP" ("\DCRNIOBP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0402100KFKTD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rg1" ("Rg1"); Footprint = "RESC1508X50N"; UniqueID = "\DDLXFPBE" ("\DDLXFPBE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-071RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-071rl/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-071RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-071RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-071RL?qs=VU8sRB4EgwCpR02Ip%252BqS4Q%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rg2" ("Rg2"); Footprint = "RESC1508X50N"; UniqueID = "\BLEZYFMF" ("\BLEZYFMF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-071RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-071rl/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-071RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-071RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-071RL?qs=VU8sRB4EgwCpR02Ip%252BqS4Q%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rilim" ("Rilim"); Footprint = "RESC1005X40N"; UniqueID = "\ZETXVLDK" ("\ZETXVLDK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0402FT21K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rt" ("Rt"); Footprint = "RESC1005X40N"; UniqueID = "\ITNRREYQ" ("\ITNRREYQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW040266K5FKED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetM1_4 Pin=Rg1-1
+Added Pin To Net: NetName=NetM2_3 Pin=Rg2-1
+Added Pin To Net: NetName=GND Pin=Rilim-2
+Added Pin To Net: NetName=NetRg1_2 Pin=Rg1-2
+Added Pin To Net: NetName=NetRg1_2 Pin=U1-2
+Added Net: Name=NetRg1_2
+Added Pin To Net: NetName=NetRg2_2 Pin=Rg2-2
+Added Pin To Net: NetName=NetRg2_2 Pin=U1-1
+Added Net: Name=NetRg2_2
+Added Pin To Net: NetName=NetRilim_1 Pin=Rilim-1
+Added Pin To Net: NetName=NetRilim_1 Pin=U1-17
+Added Net: Name=NetRilim_1

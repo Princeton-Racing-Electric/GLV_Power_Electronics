@@ -1,0 +1,28 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\GLV_Converter\PCB2.PcbDoc
+Date         : 2/19/2022
+Time         : 4:26:59 PM
+Time Elapsed : 00:00:01
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 5124.816mils
+    NetCboot1_1, Signal Layers Only, 1135.393mils
+    NetCboot1_2, Signal Layers Only, 190.502mils
+    NetCboot2_1, Signal Layers Only, 163.966mils
+    NetCboot2_2, Signal Layers Only, 747.771mils
+    NetCcomp_1, Signal Layers Only, 66.176mils
+    NetCcomp_2, Signal Layers Only, 219.932mils
+    NetCout_1, Signal Layers Only, 3593.474mils
+    NetCvcc_2, Signal Layers Only, 93.968mils
+    NetJI2C_01, Signal Layers Only, 0mils
+    NetJI2C_02, Signal Layers Only, 52.014mils
+    NetJI2C_03, Signal Layers Only, 82.459mils
+    NetM2_3, Signal Layers Only, 420.536mils
+    NetQ1_4, Signal Layers Only, 192.843mils
+    NetRenb_2, Signal Layers Only, 241.892mils
+    NetRg1_2, Signal Layers Only, 1602.267mils
+    NetRg2_2, Signal Layers Only, 708.114mils
+    NetRilim_1, Signal Layers Only, 283.291mils
+    NetRt_2, Signal Layers Only, 143.858mils
+    VCC, Signal Layers Only, 2845.14mils
+count : 20
